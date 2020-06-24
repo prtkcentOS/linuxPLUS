@@ -1,0 +1,7 @@
+ideas
+-script for counting letters
+-script for comparing hashes for multiple downloads
+
+
+programs
+-SCAP workbench
